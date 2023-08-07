@@ -1,7 +1,8 @@
 import os
-
+# very basic mac address changer made by Marco Liberale
+# I cannot be held responsible if this tool is used maliciously.
 # human made code
-# AI generated comments
+# AI generated comments with Machinet AI (GPT-4 based)
 
 # Check if the script is run as root
 if os.geteuid() != 0:
